@@ -9,3 +9,5 @@ run one seeder
 ```
 php artisan db:seed --class=NameSeeder
 ```
+
+sudo chown -R $USER:$USER /home/
